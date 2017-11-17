@@ -1,0 +1,26 @@
+{
+  "name": "scms",
+  "version": "1.0.0",
+  "description": "a cms based on vue-ssr",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js",
+    "build": "nuxt build",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "mevn"
+  ],
+  "author": "shen chen/jan larsen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "bootstrap": "^3.3.7",
+    "expose-loader": "^0.7.1",
+    "express": "^4.14.0",
+    "express-session": "^1.15.0",
+    "jquery": "^3.1.1",
+    "mongodb": "^2.2.21",
+    "nuxt": "^0.9.6"
+  }
+}
