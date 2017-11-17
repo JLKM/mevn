@@ -1,6 +1,6 @@
 # Server Side Rendered CMS/forum built on a MEVN stack
 
-Further developed from [SC Blog](https://github.com/yyss8/scBlog) in order to end up with a full CMS built on **M**ongoDB, **Express**, **V**ue and **N**ode (**N**uxt).
+Further developed from [SC Blog](https://github.com/yyss8/scBlog) in order to end up with a full CMS built on **M**ongoDB, **E**xpress, **V**ue and **N**ode (**N**uxt).
 
 Please visit the [site](https:mevn.dk).
 
