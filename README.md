@@ -9,3 +9,5 @@ Further description in:
 - [English](https://vue-js.dk/en/frontend/vue/first-mevn-stack-in-denmark/)
 
 - [Danish](https://vue-js.dk/da/klient-siden/vue/den-foerste-mevn-stak-danmark/)
+
+A MongoDB database containing three collections (user, post and settings) is required for the setup to run. A mongodump including the necessary (dummy)data to get started with will be sent upon request.

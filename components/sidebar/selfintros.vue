@@ -18,9 +18,9 @@
                     <i class='fa fa-drivers-license-o'></i><span>Aarhus, Denmark</span>
                 </div>
             <div class='self-intro-contact-btns'>
-                <a href="https://jlkm.dk" target="_blank">Website&nbsp;<i class='fa fa-link'></i></a>
-                <a href="https://dk.linkedin.com/pub/jan-larsen/98/a7b/11b" target="_blank">Linkedin&nbsp;<i class='fa fa-linkedin-square'></i></a>
-            </div>
+                <a href="https://jlkm.dk" target="_blank">Website<i class='fa fa-link marginleftsmall'></i></a>
+                <a href="https://dk.linkedin.com/pub/jan-larsen/98/a7b/11b" target="_blank">LinkedIn<i class='fa fa-linkedin-square marginleftsmall'></i></a>
+                <a href="https://github.com/jlkm" target="_blank">GitHub<i class='fa fa-github marginleftsmall'></i></a>            </div>
             </div>
         </div>
     </div>
